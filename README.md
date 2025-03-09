@@ -1,5 +1,4 @@
-# PRCyberX-Portfolio
-Portfólio de Paulo Ricardo Bosqueti, estudante de Segurança da Informação, com projetos iniciais em cibersegurança
+
 # PRCyberX-Portfolio
 Olá! Sou Paulo Ricardo Bosqueti, estudante de Segurança da Informação no 2º semestre, com certificação Cisco. Como "PRCyberX", exploro cibersegurança com foco em redes e proteção de dados.
 
