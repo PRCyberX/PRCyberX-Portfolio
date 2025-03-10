@@ -7,3 +7,5 @@ Olá! Sou Paulo Ricardo Bosqueti, estudante no Gran Faculdade de Segurança da I
 
 ## Sobre Mim
 Aos 37 anos, trago maturidade e comprometimento com a área de TI. Estou dedicado a aprender e aplicar conceitos de cibersegurança, com o objetivo de contribuir para a segurança digital em redes e sistemas.
+## Contato
+- Email: paulo.oliveira6@faculdadegran.edu.br
